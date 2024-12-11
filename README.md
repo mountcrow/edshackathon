@@ -1,9 +1,9 @@
-# Nissanleaf POC
+# EDS Hackathon
 
 ## Environments
 
-- Preview: https://main--nissanleaf--sherest.hlx.page/
-- Live: https://main--nissanleaf--sherest.hlx.live/
+- Preview: https://main--edshackathon--mountcrow.aem.page/
+- Live: https://main--edshackathon--mountcrow.aem.live/
 
 ## Installation
 
