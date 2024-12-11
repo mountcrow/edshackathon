@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/tkraehe/tkraehe-carvelo/carvelo
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/tkraehe_adobe_com/Documents/Demo/EDS/edshackathon
 
 folders:
   /products/: /products/default
