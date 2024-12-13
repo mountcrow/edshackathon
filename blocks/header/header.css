@@ -392,6 +392,7 @@ header nav .nav-tools {
   gap: 10px;
   height: 100%;
   margin-left: 2em;
+  margin-top: 15px;
   @media (width < 768px) {
     margin: 0 2em;
   }
