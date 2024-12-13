@@ -1,9 +1,13 @@
 /* stylelint-disable */
 header .header-nav-wrapper {
+  /*
   position: absolute;
+  */
   z-index: 20;
   padding: 20px 0;
   width: 100%;
+  background: #fff;
+  color: #023f88;
 
   &::after {
     background: linear-gradient(to top, transparent, rgba(0, 0, 0, .3));
@@ -208,7 +212,9 @@ header nav .nav-brand a {
 header nav .nav-brand img {
   width: 120px;
   height: auto;
+  /*
   filter: invert(1);
+  */
 }
 
 /* sections */
@@ -217,6 +223,7 @@ header nav .nav-sections {
   flex: 1 1 auto;
   display: none;
   visibility: hidden;
+  margin-top: 15px;
 }
 
 header nav[aria-expanded='true'] .nav-sections {
@@ -308,7 +315,7 @@ header nav .nav-sections ul > li > a:hover {
     margin: 0;
 
     justify-content: flex-end;
-    color: white;
+    color: #023f88;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li {
