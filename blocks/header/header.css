@@ -348,7 +348,7 @@ header nav .nav-sections ul > li > a:hover {
     padding: 1em;
     background-color: white;
     white-space: initial;
-    color: #000;
+    color: #023f88;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul::before {
@@ -405,7 +405,7 @@ header nav .nav-tools .minicart-wrapper {
 
 header nav .nav-tools > button,
 header nav .nav-tools .minicart-wrapper > button {
-  color: var(--color-brand-300);
+  color: #023f88;
   background: transparent;
   padding: 5px 10px;
   margin-left: 1em;
@@ -433,7 +433,7 @@ header nav .nav-tools button.nav-cart-button[data-count]::after {
   top: 0;
   right: 0;
   background-color: var(--color-black-100);
-  color: var(--color-neutral-100);
+  color: #023f88;
   border-radius: 50%;
   width: 1.6em;
   height: 1.6em;

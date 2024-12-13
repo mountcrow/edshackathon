@@ -76,7 +76,9 @@ header nav .section>div {
             padding-bottom: 30px;
             margin: 0;
             min-height: 200px;
+            /*
             background: linear-gradient(0deg, #000, #000 68%, rgba(0, 0, 0, 0.0001));
+            */
 
             font-family: "Nissan Light", "Nissan Regular", Verdana, Arial, sans-serif;
             font-size: 18px;
@@ -110,7 +112,9 @@ header nav .section>div {
         justify-items: center;
         align-items: end;
         max-width: unset;
+        /*
         background: linear-gradient(0deg, #000, #000 68%, rgba(0, 0, 0, 0.0001));
+        */
         color: #fff;
 
         @media (width < 768px) {
@@ -124,14 +128,14 @@ header nav .section>div {
 
         & h1 {
             grid-area: price;
-            font-size: 1.5em;
+            font-size: 2.5em;
             justify-self: start;
             align-self: end;
         }
 
         & h5 {
             grid-area: title;
-            font-size: 2.5em;
+            font-size: 1.5em;
             margin: 10px 0;
             text-align: left;
             white-space: normal;
@@ -507,7 +511,7 @@ body.no-scroll {
     outline: none;
     border: none;
     background: transparent;
-    color: #ffffff;
+    color: #023f88;
 }
 
 @media (width < 768px) {}
