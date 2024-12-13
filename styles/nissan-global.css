@@ -196,8 +196,15 @@ header nav .section>div {
     }
 }
 
-.tetrapak-hero-content {
-    background: rgba(255, 255, 255, 0.3);
+.tetrapak-hero-content .hero .hero-desc-wrapper {
+    /*
+        background: rgba(255, 255, 255, 0.3);
+        */
+        background: transparent;
+        color: #fff;
+        left:20%;
+        bottom: 30%;
+        padding: 80px 5%;
 }
 
 
