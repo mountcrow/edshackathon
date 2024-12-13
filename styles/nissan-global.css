@@ -76,9 +76,9 @@ header nav .section>div {
             padding-bottom: 30px;
             margin: 0;
             min-height: 200px;
-            /*
+            
             background: linear-gradient(0deg, #000, #000 68%, rgba(0, 0, 0, 0.0001));
-            */
+            
 
             font-family: "Nissan Light", "Nissan Regular", Verdana, Arial, sans-serif;
             font-size: 18px;
@@ -97,6 +97,7 @@ header nav .section>div {
         }
     }
 }
+
 
 .hero-container.nissan-hero-content {
     & .hero-desc-wrapper {
@@ -194,6 +195,11 @@ header nav .section>div {
         }
     }
 }
+
+.tetrapak-hero-content {
+    background: rgba(255, 255, 255, 0.3);
+}
+
 
 
 footer .footer {
